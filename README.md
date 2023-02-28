@@ -1,5 +1,9 @@
 # pressence_activated_ligth
-Blueprint for automatic activated light with presence
+# Beta version
+If there are errors, advanced help would be appreciated.
+Leave your comments and open a new branch.
+
+# Blueprint for automatic activated light with presence
 
 Instructions:
 Download and put this foldeer in config//homeassistant/blueprints/automation
