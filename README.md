@@ -1,4 +1,4 @@
-# pressence_activated_ligth
+# presence_activated_ligth
 # Beta version
 If there are errors, advanced help would be appreciated.
 Leave your comments and open a new branch.
