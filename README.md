@@ -9,3 +9,5 @@ Instructions:
 Download and put this foldeer in config//homeassistant/blueprints/automation
 
 This blueprint is for use on new presence sensors
+Just is a copi of motion activated ligth changing code to presence. 
+This blueprint work fine but not programing expert need a litle revision.
